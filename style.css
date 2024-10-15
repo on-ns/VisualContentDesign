@@ -1,0 +1,40 @@
+header {
+    width: 100%;
+    padding: 15px 0;
+    margin: 0 auto;
+    text-align: center;
+}
+
+footer {
+    width: 100%;
+    text-align: center;
+    padding: 60px 0;
+    color: #ffffff;
+    background-color: #294a0a;
+}
+ 
+.nav-list {
+    text-align: center;
+    padding: 10px 0;
+    margin: 0 auto;
+
+}
+.nav-list-item {
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+}
+
+h1 {
+    padding: 60px 0;
+    color: #ffffff;
+    background: #294a0a;
+}
+
+h2 {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
