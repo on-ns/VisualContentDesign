@@ -35,6 +35,34 @@ h2 {
     text-align: center;
 }
 
-div {
+img{
+    width:100%;
+}
+
+.icon{
+    width:50%;
     text-align: center;
+    margin:0 auto;
+}
+
+.shop{
+    background-color:pink;
+    border: thick solid pink;
+    width:100%;
+    text-align: center;
+    margin:0 auto;
+}
+
+#box{
+    background-color:#ffdfdf;
+    width:100%;
+    float:left;
+}
+
+.cakes{
+    background-color: white;
+    float:left;
+    width:250px;
+    border: thick solid rgb(255, 153, 65);
+    margin: 15px 15px;
 }
